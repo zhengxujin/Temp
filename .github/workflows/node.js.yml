@@ -1,6 +1,7 @@
 name: ncatest.cx.js
  
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
